@@ -66,19 +66,19 @@ View list of recent commits
 ==========================
 
 ```
-Git journal
+Git log
 ```
 
-Transmit commit to remote chunkstore
+Transmit commit to remote repository
 ====================================
 
 ```
-Git transmit
+Git push
 ```
 
-Fetch commits from remote chunkstore
+Fetch commits from remote repository
 ===================================
 
 ```
-Git download
+Git pull
 ```
