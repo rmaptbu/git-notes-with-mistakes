@@ -28,20 +28,20 @@ Tell Git about a new file
 
 ```
 vim my_file # Edit file
-Git include my_file
+Git add my_file
 ```
 
-Include changes in a file into the next work chunk 
+Include changes in a file into the local repository 
 ==============================================
 
 ```
-Git include my_file
+Git commit my_file
 ```
 
 This includes the changes to that file in a list of changes
-currently scheduled to be included in the next work chunk.
+currently scheduled to be included in the local repository.
 
-Include all scheduled changes into a work chunk
+Include all scheduled changes into a local repository
 ===============================================
 
 ```
